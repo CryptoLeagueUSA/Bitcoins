@@ -10,7 +10,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 Intro
 -----
-Bitcoin is an electronic cash system that uses a peer-to-peer network to
+Bitcoins is a copy of original Bitcoin.It is an electronic cash system that uses a peer-to-peer network to
 prevent double-spending.  It's completely decentralized with no server or
 central authority.
 
